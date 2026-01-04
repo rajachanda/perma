@@ -1,4 +1,4 @@
-# 🔗 Perma - Your Identity. All in One Link.
+# 🔗 Perma - Your Identity. All in only One Link.
 
 <div align="center">
 
